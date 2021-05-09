@@ -1,2 +1,1 @@
-# Algorithms_development
-ITMO University course
+Optimization algorithms, graph algorithms
